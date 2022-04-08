@@ -8,10 +8,10 @@ html {
   height: 56.25vw;
 }
 
-@media only screen and (max-width: 960px), (max-height: 540px) {
+@media only screen and (max-width: 540px), (max-height: 960px) {
   #unityContainer {
-    width: 960px;
-    height: 540px;
+    width: 540px;
+    height: 960px;
   }
 }
 
